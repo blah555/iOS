@@ -1,0 +1,277 @@
+Package: com.kodiios.iOS17
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JoshTV
+Depends: firmware (>=7.0), mobilesubstrate
+Filename: debs/com.kodiios.iOS17.deb
+Size: 1360
+MD5sum: da33a20b0a8db37c6f7d8b86c227ff3d
+SHA1: 0164b8d6ca18841c38188bf231bcf92023068820
+SHA256: 73d3c45e2ec171e380e325fe69cb4d4f7f86167da41ba0921428354a8ff40d15
+Section: Multimedia
+Description: Wolfenstein. Modified by Josh for iOS 8.0 - 12
+Author: Memphiz
+Depiction: https://blah555.github.io/iOS/depictions/com.kodiios.iOS17/info.html
+Name: Kodi 17
+
+Package: com.opticity.alkaline
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Opticity
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.opticty.alkaline_1.3.deb
+Size: 172760
+MD5sum: 911260853064359fa4e7b84874863751
+SHA1: da80e26a3651d3395d3314e2c8393a4c88de0107
+SHA256: e54e98a71a90ebae1a96fe5d8da1c9fc787c6f76c70a96f9be751e14925d5f4f
+Section: Tweaks
+Description: Themeable status bar battery replacement for iOS 7.
+Author: magn2o
+Name: Alkaline
+
+Package: com.opticity.amury
+Version: 1.8
+Architecture: iphoneos-arm
+Maintainer: Opticity
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.opticity.amury.deb
+Size: 6499268
+MD5sum: 0ad7d8c7e3bf6a9570b5094817149386
+SHA1: d9143fe9d81b691fa916a506627152a6430aaf7f
+SHA256: bbe3732798ce0dda999986e28df38f98796229370ed6e5d5b4c16eb61e2e45f6
+Section: Themes
+Description: Amury Theme
+Author: Alex Sanchez
+Name: Amury
+
+Package: com.opticity.cylinder
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: Opticity
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.opticity.cylinder_1.0.6.deb
+Size: 332248
+MD5sum: 0ec2008c445243fa492f4120eab123b7
+SHA1: 493649fd279840e35c2cbaf1a25e791d4c0a54ea
+SHA256: 4fec666f86a6ee402dc3d349847439871345b82fb89defe4e47dac6dc8d4b070
+Section: Tweaks
+Description: Make your icons dance
+Author: Reed Weichler
+Name: Cylinder
+
+Package: com.opticity.filza
+Version: 3.6.4
+Architecture: iphoneos-arm
+Maintainer: Opticity
+Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Filename: debs/com.opticity.filzafilemanager_3.6.4.deb
+Size: 12394362
+MD5sum: e63074d0e495f06d0d6a5743e7be9e5e
+SHA1: 01d0f43f8a95253cb3134cad77a13844b5b3451c
+SHA256: 1d45c5bd335bf18c74331a01e4a245d30ba835125fcc29caaab06b15d0abf07d
+Section: Utilities
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
+Author: TIGI Software
+Icon: file:///Applications/Filza.app/AppIcon57x57.png
+Name: Filza File Manager
+Tags: purpose::uikit, compatible::ios12
+
+Package: com.opticity.haptickeyboard
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Opticity
+Depends: mobilesubstrate
+Filename: debs/com.opticity.haptickeyboard_1.0.0.deb
+Size: 19428
+MD5sum: d7e628c7cf1b4351078f5f272f5b4c72
+SHA1: 549a1bb81fd33fc3a4c1ef9884cef31def1b274d
+SHA256: 2b69557088c9faa83aaf43c31c74b7a54358920a4c5b048a6a306d4e4295faa8
+Section: Tweaks
+Description: Taptic feedback for keyboard.
+Author: cole cabral @ca13ra1
+Depiction: https://cvenos.github.io/opticity/depictions/?p=com.opticity.haptickeyboard
+Name: HapticKeyboard
+
+Package: com.opticity.libsparkapplist
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Opticity
+Filename: debs/com.opticity.libsparkapplist_1.0.1-1.deb
+Size: 35120
+MD5sum: 9bee021b2c619ce78ad96a4c2369e1fe
+SHA1: 9796b84d19579a7c30ebf0760a3e4fb873497fc9
+SHA256: 6fb7cf116d9ab76b85c1cef6d6bd646ed4fadfd09733df83db8dfc11ae0cd51d
+Section: System
+Description: AppList alternative
+Author: Spark
+Name: libSparkAppList
+
+Package: com.opticity.libsparkapplist
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Opticity
+Filename: debs/com.opticity.libsparkapplist_1.0.2.deb
+Size: 35200
+MD5sum: 24665c2897dbe37e0d7858f731461dc9
+SHA1: 65bcf8e215cb2efc8437edf502dfe90168027c0f
+SHA256: 8f521402254dc62c08dbe82d467cf53896b1d109c36312cb173247d8ccc10195
+Section: System
+Description: AppList alternative
+Author: Spark
+Name: libSparkAppList
+
+Package: com.opticity.libsparkapplist
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Opticity
+Filename: debs/com.opticity.libsparkapplist_1.0.3.deb
+Size: 67810
+MD5sum: 8338df703b9b03f0d8d62a3bc655ec9a
+SHA1: 5563b6d207679cff70174a1ff186a2626594bbe2
+SHA256: 2f58d6a0baed0a7a664da78011d7710e6364061fe5ebaa56c81c76317448190d
+Section: System
+Description: AppList alternative
+Author: Spark
+Name: libSparkAppList
+
+Package: com.opticity.lockanim
+Version: 0.0~beta4
+Architecture: iphoneos-arm
+Maintainer: Opticity
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.opticity.lockanim_0.0_beta4.deb
+Size: 132318
+MD5sum: 009f7fd0b3196a047def4b7d17fc06a6
+SHA1: 7d8b4040d88d5efac8c7e7399b798909b136dc0b
+SHA256: 82617ba79bc16e995eee4d137b03d2617013beec735abcc53c8aeec4892bdfa7
+Section: Tweaks
+Description: Lock Animations
+Author: julioverne
+Name: Lock Anim
+
+Package: com.opticity.lotus
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Opticity
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.opticity.lotus.deb
+Size: 6879172
+MD5sum: bc2775367da5b4f912ae0d7bd192f42f
+SHA1: 71b8329ac32021c6fd65de525de5dec8ab1faedc
+SHA256: c47e4869d5235fef76068704eae86b21db7ba99b6dff34b7c96042abf6210dac
+Section: Themes
+Description: A simple subtle theme
+Author: orenjiiiro
+Name: Lotus
+
+Package: com.opticity.noctis12
+Version: 1.3.2
+Architecture: iphoneos-arm
+Maintainer: Opticity
+Depends: mobilesubstrate
+Conflicts: com.laughingquoll.noctisxi, com.opticity.noctisxi
+Filename: debs/com.opticity.noctis12_1.3.2.deb
+Size: 220252
+MD5sum: b715cea53e83fd86c2508d78da7b2ea1
+SHA1: 0f82ae0ac4d692f94aa1e1ac74c91105cc6a1b37
+SHA256: efde5e7db875eb22d8c238479ce3cf4eab6bd96ad21ecd122e2ccbc493348aaa
+Section: Tweaks
+Description: Noctis12 - System Wide Dark Mode for iOS
+Author: LaughingQuoll
+Name: Noctis12
+
+Package: com.opticity.noctis12
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Opticity
+Depends: mobilesubstrate
+Conflicts: com.laughingquoll.noctisxi, com.opticity.noctisxi
+Filename: debs/com.opticity.noctis12_1.4.deb
+Size: 223624
+MD5sum: c097610bf1147f515ff62216b340d2ea
+SHA1: 3a7cea8782392d22facfa79b7ccc53242b2ee2f4
+SHA256: e33f0dec0496808ffe1f0d96aa867221fdce3b79838be265b2b4cfaa1e5e8e5e
+Section: Tweaks
+Description: Noctis12 - System Wide Dark Mode for iOS
+Author: LaughingQuoll
+Name: Noctis12
+
+Package: com.opticity.realcc
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Opticity
+Depends: mobilesubstrate
+Filename: debs/com.opticity.realcc_1.0.1.deb
+Size: 4166
+MD5sum: d45cfc0201485f0ce5a011d8ce9bb659
+SHA1: f17d09be6eda6f6c3d55f06fa28679f74dca18c7
+SHA256: 2297e6977ddeadc00ef83b6cf4ca63957c5bd2c74516d72b37f276d065f8bc90
+Section: Tweaks
+Description: Actually disable Wi-Fi from the iOS 12 Control Center
+Author: Jake James
+Name: RealCC
+
+Package: com.opticity.stockplus
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Opticity
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: debs/com.opticity.stockplus_0.0.1.deb
+Size: 30976
+MD5sum: c4f9695a944edc32d11d502fbb53b1d9
+SHA1: 2ee1ddde0210bb291e7be81cb80b8082bb81a3c6
+SHA256: 11ed6512d59e08a3eb9498a10227c27c866d11981c5cd12f045dcf85d639db09
+Section: Themes
+Description: A theme with beautiful icons!
+Author: Chris Venos
+Name: Stock Plus
+
+Package: com.opticity.stockplus
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Opticity
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: debs/com.opticity.stockplus_0.0.2.deb
+Size: 30972
+MD5sum: 24519211b7602f951e2a414c426b7c3d
+SHA1: bf7dddcf74db85cbc06b3348527819cbdd33cdce
+SHA256: 390a69be8a1bc6d0bd30664ce2e089c8d3e14f37fb5e9e8b75c21d10b2b75c79
+Section: Themes
+Description: A theme with beautiful icons!
+Author: Chris Venos
+Name: Stock Plus
+
+Package: com.opticity.transparentdock
+Version: 0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Chris Venos
+Depends: mobilesubstrate
+Filename: debs/com.opticity.transparentdock_0.1-1+debug.deb
+Size: 11480
+MD5sum: d3baa3722141597090d4700de0f63c7f
+SHA1: 8ea15e6798a12c224115e29ebc498de5353b4eaa
+SHA256: 2227ae8a7e7376464bfb6b2f854ab8160c53945994a4ed1e54c8b752f8270ba5
+Section: Tweaks
+Description: An awesome new see through dock!
+Author: Chris Venos
+Depiction: https://cvenos.github.io/opticity/depictions/com.opticity.transparentdock/info.html
+Name: Transparent Dock
+Sileodepiction: https://cvenos.github.io/opticity/depictions/com.opticity.transparentdock/info.json
+
+Package: com.wolfTV.wolf
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: JoshTV
+Depends: firmware (>=7.0), mobilesubstrate
+Filename: debs/com.wolfTV.iOS.deb
+Size: 1348
+MD5sum: 8ba83878aabecd65af5dda6b85eeea17
+SHA1: c9e61b87b22fe04270e71fc9d7c2a0ba22dd76bd
+SHA256: f54fe819158f54befaa1bfd7c0848e6469b13369980c66350e8c90c13351c2a3
+Section: Games
+Description: Wolfenstein. Modified by Josh for iOS 8.0 - 12
+Author: JoshTV
+Depiction: https://blah555.github.io/iOS/depictions/com.wolfTV.iOS/info.html
+Name: Wolfenstein 3-D
+
